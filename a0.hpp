@@ -1,8 +1,3 @@
-/*  Jason
- *  Kim
- *  jaeheunk
- */
-
 #ifndef A0_HPP
 #define A0_HPP
 #include <functional> 
